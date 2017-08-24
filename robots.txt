@@ -1,0 +1,6 @@
++User-agent: *
++Allow: *
++Host: http://nezabudka.tk/
++
++
++Sitemap: http://www.site.ru/sitemap.xml
